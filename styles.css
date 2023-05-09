@@ -1,0 +1,19 @@
+.banner {
+  width: 500%;
+  height: 200px;
+  background-color: rgb(207, 194, 117);
+  background-size: cover;
+  background-position: center; 
+        }
+ 
+      .container {
+        text-align: center;
+        height: 400px; /* Set a height for the container */
+        display: flex; /* Use flexbox to vertically center the image */
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .container img {
+        vertical-align: middle; /* Align the image vertically */
+      }
